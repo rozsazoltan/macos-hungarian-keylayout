@@ -6,6 +6,8 @@
 - Logout and Login again, or restart your PC.
 - In the keyboard settings, you will find the `Hungarian - QWERTZ` keyboard layout in the `Hungarian` folder.
 
+_In case of a new version release of the keylayout, you do not need to remove the already installed keylayout for the update; simply install the new version according to the instructions provided above._
+
 ## Why?
 
 ### Known macOS issues with default Hungarian keyboard layouts
@@ -19,11 +21,11 @@ macOS comes with two Hungarian keyboard layouts by default, neither of which is 
 This (Hungarian QWERTZ) layout puts the most important (for programming) characters back to where they usually are on a PC keyboard (as Windows and Linux systems).
 
 - <kbd>0</kbd> is now right left to <kbd>1</kbd> (instead of <kbd>Í</kbd>, which moved to <kbd>Alt</kbd><kbd>J</kbd>)
-- On international QWERTZ layouts you can type <kbd>Í</kbd> with the key located between the <kbd>Left Shift</kbd> and the <kbd>Z</kbd>. Use this key with <kbd>Alt</kbd><kbd>Z</kbd> for `<` and `>` symbols, as on Hungarian keyboards.
+- On international QWERTZ layouts you can type <kbd>Í</kbd> with the key located between the <kbd>Left Shift</kbd> and the <kbd>Y</kbd>. Use this <kbd>Alt</kbd><kbd>Í</kbd> key with <kbd>Alt</kbd><kbd>Y</kbd> for `<` and `>` symbols, as on Hungarian keyboards.213122
 - <kbd>Alt</kbd> is the primary method for symbols:
     - <kbd>Alt</kbd><kbd>Q</kbd> = `\`
-    - <kbd>Alt</kbd><kbd>V</kbd> = `@` 
-    - <kbd>Alt</kbd><kbd>F</kbd> = `[` 
+    - <kbd>Alt</kbd><kbd>V</kbd> = `@`
+    - <kbd>Alt</kbd><kbd>F</kbd> = `[`
     - <kbd>Alt</kbd><kbd>G</kbd> = `]`
     - etc.
 
