@@ -21,7 +21,7 @@ macOS comes with two Hungarian keyboard layouts by default, neither of which is 
 This (Hungarian QWERTZ) layout puts the most important (for programming) characters back to where they usually are on a PC keyboard (as Windows and Linux systems).
 
 - <kbd>0</kbd> is now right left to <kbd>1</kbd> (instead of <kbd>Í</kbd>, which moved to <kbd>Alt</kbd><kbd>J</kbd>)
-- On international QWERTZ layouts you can type <kbd>Í</kbd> with the key located between the <kbd>Left Shift</kbd> and the <kbd>Y</kbd>. Use this <kbd>Alt</kbd><kbd>Í</kbd> key with <kbd>Alt</kbd><kbd>Y</kbd> for `<` and `>` symbols, as on Hungarian keyboards.213122
+- On international QWERTZ layouts you can type <kbd>Í</kbd> with the key located between the <kbd>Left Shift</kbd> and the <kbd>Y</kbd>. Use this <kbd>Alt</kbd><kbd>Í</kbd> key with <kbd>Alt</kbd><kbd>Y</kbd> for `<` and `>` symbols, as on Hungarian keyboards.
 - <kbd>Alt</kbd> is the primary method for symbols:
     - <kbd>Alt</kbd><kbd>Q</kbd> = `\`
     - <kbd>Alt</kbd><kbd>V</kbd> = `@`
